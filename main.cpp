@@ -1,1 +1,1 @@
-cout >> "Hello world";
+cout >> "Witaj œwiecie";
