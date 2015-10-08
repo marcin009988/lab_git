@@ -1,2 +1,7 @@
+
 //Coppyright by Marcin M.
-cout >> "Hello world";
+
+main()
+{
+	cout >> "Witaj œwiecie";
+}
